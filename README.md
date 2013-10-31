@@ -1,4 +1,3 @@
-teuxdeux-api
-============
+# TeuxDeux API documentation
 
-TeuxDeux API documentation
+Coming soon.
